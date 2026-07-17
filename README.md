@@ -2,7 +2,7 @@
 
 This repository contains the official codebase for **PlanPhys**.
 
-- **Homepage**:  
+-🌐 **Homepage**:  
   https://quester-one.github.io/PlanPhysWebsite/
 
 
