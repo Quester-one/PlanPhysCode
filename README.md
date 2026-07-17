@@ -2,6 +2,10 @@
 
 This repository contains the official codebase for **PlanPhys**.
 
+- **Homepage**:  
+  https://quester-one.github.io/PlanPhysWebsite/
+
+
 ## 🔥 Release
 
 We are excited to announce that we have released the resources used in the **pre-training stage** of PlanPhys.
