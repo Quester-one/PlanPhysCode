@@ -12,8 +12,8 @@ We are excited to announce that we have released the resources used in the **pre
 
 The released resources include:
 
-- ✅ Pre-training datasets (including all checkpoints)
-- ✅ Pre-trained models
+- ✅ Pre-training datasets
+- ✅ Pre-trained models (including all checkpoints)
 
 You can access them through Hugging Face:
 
