@@ -1,6 +1,6 @@
 # PlanPhysCode
 
-This repository contains the official codebase for **PlanPhys**.
+This repository contains the official codebase for **The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation**.
 
 -🌐 **Homepage**:  
   https://quester-one.github.io/PlanPhysWebsite/
